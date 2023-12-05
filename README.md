@@ -11,4 +11,4 @@ The Neolatin Wordlist (*Neulateinische Wortliste*; NLW) is a lexical resource th
 
 ## Citation
 
-BOANO VALERIA IRENE, MAMBRINI FRANCESCO, PASSAROTTI MARCO, GINEVRA RICCARDO, [Modelling and Publishing the “Lexicon der indogermanischen Verben” as Linked Open Data](https://clic2023.ilc.cnr.it/wp-content/uploads/2023/11/paper10.pdf), in BOSCHETTI FEDERICO, LEBANI GIANLUCA, MAGNINI BERNARDO, NOVIELLI NICOLE (eds.), Proceedings of CLiC-it 2023: 9th Italian Conference on Computational Linguistics, Nov 30 — Dec 02, 2023, Venice, Italy, CEUR Workshop Proceedings, 2023, pp. 1-7. 
+BOANO VALERIA IRENE, MAMBRINI FRANCESCO, PASSAROTTI MARCO, GINEVRA RICCARDO, [_Modelling and Publishing the “Lexicon der indogermanischen Verben” as Linked Open Data_](https://clic2023.ilc.cnr.it/wp-content/uploads/2023/11/paper10.pdf), in BOSCHETTI FEDERICO, LEBANI GIANLUCA, MAGNINI BERNARDO, NOVIELLI NICOLE (eds.), _Proceedings of CLiC-it 2023: 9th Italian Conference on Computational Linguistics_, Nov 30 — Dec 02, 2023, Venice, Italy, CEUR Workshop Proceedings, 2023, pp. 1-7. 
